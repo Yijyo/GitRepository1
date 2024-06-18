@@ -1,3 +1,4 @@
-' ' '
-print()
-' ' '
+'''
+def func():
+  print(Hello)
+'''
